@@ -1,2 +1,9 @@
-# Soyes-S23-Pro-lineageos15-1-device-tree
-Device tree for Soyes S23 Pro and similar devices for building LineageOS 15.1 Android 8.1
+# Android device tree for alps S23_Pro (a28f2_v2_s25_s23pro_en)
+
+```
+#
+# Copyright (C) 2025 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
